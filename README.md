@@ -1,1 +1,2 @@
-# CSE508_Winter2024_Project
+# Information Retrieval Project
+## Intelligent Teaching Assistant chatbot
