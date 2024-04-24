@@ -1,5 +1,5 @@
-# Information Retrieval Project
-## Intelligent Teaching Assistant chatbot
+Information Retrieval Project
+Intelligent Teaching Assistant chatbot
 
 Welcome to our innovative AI-powered application, designed to offer a versatile and user-friendly experience. Our application integrates multiple advanced technologies, allowing users to interact with audio, images, and PDFs with ease. This README provides an overview of our methodologies, key features, and how the application works.
 
